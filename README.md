@@ -65,15 +65,6 @@
 
 ---
 
-## 📊 Estatísticas & Contribuições
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxiomP&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxiomP&layout=compact&theme=dark&hide=html,css)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AxiomP&theme=dark)](https://git.io/streak-stats)
-
----
-
 ## 📫 Contato Profissional
 
 - **LinkedIn**: [linkedin.com/in/gm5/](https://www.linkedin.com/in/gm5/)
